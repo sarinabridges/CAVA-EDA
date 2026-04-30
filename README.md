@@ -1,4 +1,3 @@
-# CAVA-EDA
 ## Cleaning and Exploratory Data Analysis of CAVA Restaurant Orders
 
 **Background**
