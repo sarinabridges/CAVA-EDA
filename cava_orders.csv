@@ -1,0 +1,46 @@
+order_id,customer_id,order_date,order_time,Location,base_item,Protein,dip_1,dip_2,Topping_1,topping_2,topping_3,Dressing,meal_format,calories,Protein_g,carbs_g,fat_g,Fiber_g,Sodium_mg,price,rating,delivery_platform,order_type
+1001,C001,2024-01-08,12:34,DC - Logan Circle,Saffron Basmati Rice,Grilled Chicken,Hummus,Tzatziki,Tomato + Cucumber,Pickled Onions,,Lemon Herb Tahini,Bowl,620,47,71,15,4,1810,14.50,5,none,dine-in
+1002,C002,2024-01-08,13:05,DC - Logan Circle,supergreens,Falafel,Hummus,Crazy Feta,Cabbage Slaw,Pickled Onions,Avocado,Lemon Herb Tahini,Bowl,710,18,55,48,16,1430,15.25,4,,dine-in
+1003,C003,2024-01-09,11:50,MD - Bethesda,Brown Rice,Braised Lamb,Red Pepper Hummus,,Persian Cucumber,Tomato + Cucumber,Feta,Greek Vinaigrette,Bowl,810,38,62,38,9,1980,16.00,5,none,dine-in
+1004,C004,2024-01-09,18:22,VA - Arlington,Saffron Basmati Rice,Harissa Honey Chicken,Harissa,Tzatziki,Corn,Pickled Onions,Broccoli,Garlic Dressing,Bowl,850,36,82,32,5,1940,14.75,,uber eats,delivery
+1005,C005,2024-01-10,12:15,DC - Capitol Hill,Pita,Grilled Chicken,Hummus,,Tomato + Cucumber,Cabbage Slaw,,Lemon Herb Tahini,Pita,870,48,69,45,12,2560,13.50,4,none,dine-in
+1006,C006,2024-01-10,13:30,DC - Logan Circle,Black Lentils,Spicy Lamb,Crazy Feta,Harissa,Pickled Onions,Avocado,,Skhug,Bowl,820,43,49,52,17,1780,15.75,3,none,dine-in
+1007,C002,2024-01-12,12:00,DC - Logan Circle,SUPERGREENS,Falafel,Hummus,Crazy Feta,Cabbage Slaw,Pickled Onions,Avocado,Lemon Herb Tahini,Bowl,710,18,55,48,16,1430,15.25,5,none,dine-in
+1008,C007,2024-01-12,19:45,MD - Bethesda,saffron basmati rice,Grilled Steak,Harissa,Red Pepper Hummus,Tomato + Cucumber,Corn,Feta,Garlic Dressing,Bowl,910,42,75,42,6,2100,16.50,4,doordash,delivery
+1009,C008,2024-01-13,12:30,VA - Arlington,Brown Rice,Grilled Chicken,Tzatziki,,Persian Cucumber,Pickled Onions,,Lemon Herb Tahini,Bowl,680,44,68,18,7,1650,14.50,5,none,dine-in
+1010,C009,2024-01-13,13:15,DC - Capitol Hill,Pita,FALAFEL,Hummus,Crazy Feta,Cabbage Slaw,Pickled Onions,Avocado,Green Goddess Ranch,Pita,960,22,88,56,18,2210,14.25,2,none,dine-in
+1011,C010,2024-01-14,12:45,DC - Logan Circle,Black Lentils,grilled chicken,Hummus,,Tomato + Cucumber,Persian Cucumber,Broccoli,Lemon Herb Tahini,Bowl,590,47,57,15,17,1560,14.75,5,none,dine-in
+1012,C011,2024-01-14,18:00,MD - Bethesda,Saffron Basmati Rice,Harissa Honey Chicken,Harissa,,Corn,Pickled Onions,,Garlic Dressing,Bowl,880,34,80,34,4,1920,14.75,4,uber eats,delivery
+1013,C012,2024-01-15,11:30,VA - Arlington,Supergreens,Grilled Steak,Crazy Feta,Hummus,Feta,Pickled Onions,Tomato + Cucumber,Greek Vinaigrette,Bowl,640,40,22,39,8,1740,15.25,5,none,dine-in
+1014,C013,2024-01-15,12:15,DC - Capitol Hill,Pita,Braised Lamb,Harissa,Tzatziki,Persian Cucumber,Cabbage Slaw,,Skhug,Pita,940,35,71,48,10,2350,15.50,4,none,dine-in
+1015,C001,2024-01-16,13:00,DC - Logan Circle,Saffron Basmati Rice,Grilled Chicken,Hummus,Tzatziki,Tomato + Cucumber,Pickled Onions,,Lemon Herb Tahini,Bowl,620,47,71,15,4,1810,14.50,5,none,dine-in
+1016,C014,2024-01-16,12:30,MD - Bethesda,Brown rice,GRILLED CHICKEN,hummus,,tomato + cucumber,persian cucumber,broccoli,lemon herb tahini,Bowl,680,44,68,18,7,1650,14.50,3,none,dine-in
+1017,C015,2024-01-17,19:15,VA - Arlington,Black Lentils,Spicy Lamb,Crazy Feta,,Avocado,Pickled Onions,,Skhug,Bowl,780,38,44,48,15,1590,15.75,5,doordash,delivery
+1018,C016,2024-01-17,12:00,DC - Capitol Hill,Supergreens,Falafel,Hummus,Red Pepper Hummus,Cabbage Slaw,Corn,,Green Goddess Ranch,Bowl,560,16,48,32,14,1320,14.25,4,none,dine-in
+1019,C017,2024-01-18,13:30,DC - Logan Circle,saffron basmati rice,Harissa Honey Chicken,Harissa,Tzatziki,Corn,Pickled Onions,Feta,Garlic Dressing,Bowl,900,36,86,38,5,2050,14.75,4,uber eats,delivery
+1020,C018,2024-01-18,12:15,MD - Bethesda,Pita,grilled steak,Harissa,Hummus,Tomato + Cucumber,Feta,,Greek Vinaigrette,Pita,820,44,68,42,9,1800,15.50,5,none,dine-in
+1021,C019,2024-01-19,11:45,VA - Arlington,Brown Rice,Braised Lamb,Crazy Feta,Tzatziki,Pickled Onions,Persian Cucumber,Broccoli,Skhug,Bowl,850,38,64,44,9,2020,16.00,,none,dine-in
+1022,C020,2024-01-19,18:30,DC - Capitol Hill,supergreens,Grilled Chicken,Hummus,,Tomato + Cucumber,Cabbage Slaw,,Lemon Herb Tahini,Bowl,490,38,24,22,8,1340,13.75,4,none,dine-in
+1023,C003,2024-01-20,12:45,MD - Bethesda,Brown Rice,Braised Lamb,Red Pepper Hummus,,Persian Cucumber,Tomato + Cucumber,Feta,Greek Vinaigrette,Bowl,810,38,62,38,9,1980,16.00,5,none,dine-in
+1024,C021,2024-01-20,13:00,DC - Logan Circle,Black Lentils,Grilled Chicken,Hummus,Tzatziki,Tomato + Cucumber,Broccoli,,Lemon Herb Tahini,Bowl,560,48,55,14,17,1520,14.75,5,none,dine-in
+1025,C022,2024-01-21,12:30,VA - Arlington,Pita,Harissa Honey Chicken,Harissa,,Corn,Pickled Onions,Feta,Garlic Dressing,Pita,9999,40,85,44,7,2490,14.25,1,none,dine-in
+1026,C023,2024-01-21,19:00,DC - Capitol Hill,Saffron Basmati Rice,falafel,Hummus,Crazy Feta,Cabbage Slaw,Avocado,,Green Goddess Ranch,Bowl,760,20,72,42,12,1680,14.25,3,uber eats,delivery
+1027,C024,2024-01-22,12:15,DC - Logan Circle,BROWN RICE,Grilled Steak,Harissa,Red Pepper Hummus,Feta,Corn,,Garlic Dressing,Bowl,940,42,76,44,7,2160,15.75,4,none,dine-in
+1028,C025,2024-01-22,13:30,MD - Bethesda,Supergreens,Braised Lamb,Tzatziki,,Pickled Onions,Persian Cucumber,,Skhug,Bowl,520,32,18,34,6,1450,15.25,4,none,dine-in
+1029,C026,2024-01-23,11:30,VA - Arlington,Black Lentils,Grilled Chicken,Hummus,,Tomato + Cucumber,Pickled Onions,Avocado,Lemon Herb Tahini,Bowl,680,44,60,26,18,1640,15.25,5,none,dine-in
+1030,C002,2024-01-23,12:45,DC - Logan Circle,SuperGreens,Falafel,hummus,Crazy Feta,Cabbage Slaw,Pickled Onions,Avocado,lemon herb tahini,Bowl,710,18,55,48,16,1430,15.25,4,none,dine-in
+1031,C027,2024-01-24,18:15,DC - Capitol Hill,Saffron Basmati Rice,Harissa Honey Chicken,Harissa,Tzatziki,Corn,Pickled Onions,,Garlic Dressing,Bowl,,34,80,32,5,1980,14.75,4,doordash,delivery
+1032,C028,2024-01-24,12:00,MD - Bethesda,pita,GRILLED CHICKEN,Hummus,,Tomato + Cucumber,Cabbage Slaw,,Lemon Herb Tahini,Pita,870,48,69,45,12,2560,13.50,5,none,dine-in
+1033,C029,2024-01-25,13:15,VA - Arlington,Brown Rice,Braised Lamb,Crazy Feta,Harissa,Avocado,Persian Cucumber,,Skhug,Bowl,900,38,64,50,10,2080,16.00,3,none,dine-in
+1034,C030,2024-01-25,12:30,DC - Logan Circle,Black Lentils,grilled steak,Hummus,Tzatziki,Tomato + Cucumber,Feta,Corn,Greek Vinaigrette,Bowl,720,44,54,32,16,1820,15.75,5,none,dine-in
+1035,C031,2024-01-26,11:45,DC - Capitol Hill,Supergreens,Falafel,Red Pepper Hummus,,Cabbage Slaw,Pickled Onions,,Green Goddess Ranch,Bowl,520,18,42,30,14,1280,13.75,4,none,dine-in
+1036,C032,2024-01-26,19:30,MD - Bethesda,Saffron Basmati Rice,Grilled Chicken,Hummus,Crazy Feta,Tomato + Cucumber,Corn,Broccoli,Lemon Herb Tahini,Bowl,700,46,78,20,5,1890,14.50,5,uber eats,delivery
+1037,C001,2024-01-27,12:00,DC - Logan Circle,saffron basmati rice,grilled chicken,hummus,tzatziki,tomato + cucumber,pickled onions,,lemon herb tahini,Bowl,620,47,71,15,4,1810,14.50,5,none,dine-in
+1038,C033,2024-01-27,13:45,VA - Arlington,Brown Rice,Harissa Honey Chicken,Harissa,,Corn,Feta,Pickled Onions,Garlic Dressing,Bowl,860,36,74,38,6,2010,14.75,4,none,dine-in
+1039,C034,2024-01-28,12:15,DC - Capitol Hill,pita,Braised Lamb,Crazy Feta,Tzatziki,Pickled Onions,Avocado,,Skhug,Pita,970,38,72,52,12,2380,15.50,2,none,dine-in
+1040,C035,2024-01-28,18:45,DC - Logan Circle,Black Lentils,Grilled Chicken,Hummus,,Tomato + Cucumber,Persian Cucumber,,Lemon Herb Tahini,Bowl,560,48,55,14,17,1520,14.75,5,doordash,delivery
+1041,C036,2024-01-29,11:30,MD - Bethesda,Supergreens,GRILLED STEAK,Harissa,Red Pepper Hummus,Feta,Corn,,Garlic Dressing,Bowl,600,40,22,36,7,1650,15.25,4,none,dine-in
+1042,C037,2024-01-29,12:45,VA - Arlington,saffron basmati rice,Falafel,Hummus,Crazy Feta,Cabbage Slaw,Avocado,Pickled Onions,Green Goddess Ranch,Bowl,780,20,76,44,12,1720,14.25,3,none,dine-in
+1043,C038,2024-01-30,13:00,DC - Capitol Hill,Brown Rice,Braised Lamb,Tzatziki,,Persian Cucumber,Tomato + Cucumber,Broccoli,Skhug,Bowl,820,38,64,42,9,1960,16.00,,none,dine-in
+1044,C039,2024-01-30,12:30,DC - Logan Circle,Black Lentils,Grilled Chicken,Hummus,Harissa,Tomato + Cucumber,Pickled Onions,,Lemon Herb Tahini,Bowl,-50,48,55,15,17,1560,14.75,5,none,dine-in
+1045,C040,2024-01-31,19:00,MD - Bethesda,Pita,harissa honey chicken,Harissa,Tzatziki,Corn,Feta,Pickled Onions,Garlic Dressing,Pita,980,40,85,50,8,2490,14.75,4,uber eats,delivery
